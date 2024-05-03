@@ -30,3 +30,6 @@ body{
     background-color: transparent;
     border: 2px solid var(--branco-principa);
 }
+.container_imagem{
+    margin: 1 em 0 2em 0;
+}
